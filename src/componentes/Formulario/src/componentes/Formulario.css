@@ -1,0 +1,16 @@
+.src-componentes-formulario {
+
+}
+
+.jumbotron {
+    background-image: radial-gradient(circle at 51.86% 71.24%, #ffaf5f 0, #ffb457 5.56%, #faba51 11.11%, #eebf4d 16.67%, #e0c54c 22.22%, #d2c94e 27.78%, #c3ce52 33.33%, #b3d159 38.89%, #a2d561 44.44%, #90d86c 50%, #7cdb78 55.56%, #65dd85 61.11%, #48df93 66.67%, #10e0a2 72.22%, #00e1b2 77.78%, #00e2c1 83.33%, #00e2d1 88.89%, #00e2e1 94.44%, #00e2f0 100%);
+    color: black;
+}
+
+hr {
+    background-color: #eee;
+}
+
+pre {
+    color: white;
+}
